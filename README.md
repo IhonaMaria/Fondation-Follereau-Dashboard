@@ -4,9 +4,9 @@
 This is a **Streamlit-based interactive dashboard** for the [Fondation Follereau](https://ffl.lu/en/), an NGO that targets the needs of vulnerable African populations (especially in the **healthcare** sector).
 The inspiration for this project was taken from a challenge proposed in 2021 by the organization [Viz for Social Good](https://www.vizforsocialgood.com/), and is my submission for the Health Data Visualization subject of my Master's degree MHEDAS.
 
-The dashboard features insightful visualizations such as treemaps, choropleth maps, pie charts, and bar charts to help readers understand how the Foundation's 2018 budget was used and what results were accomplished.
+The dashboard features insightful visualizations such as treemap, choropleth map, pie chart, and bar chart to help readers understand how the Foundation's 2018 budget was used and what results were accomplished.
 
-The ultimate goal of this Dashboard is to raise awarness on the amazing projects from the Foundation and convey an important message to the general public through the power of data visualization. 
+The ultimate goal of this Dashboard is to raise awareness on the amazing projects from the Foundation and convey an important message to the general public through the power of data visualization. 
 
 
 ## File structure of the repository
@@ -45,7 +45,7 @@ The dashboard has three main sections that are accessible via the navigation sid
 ## Deployment
 The Dashboard app was deployed in a straightforward way thanks to Streamlit Cloud.
 
-Please follow this public URL link to access and interact with the Dashboard:
+Please follow this public URL link to access and interact with the dashboard:
 
 https://fondation-follereau-dashboard-hdvc.streamlit.app/
 
