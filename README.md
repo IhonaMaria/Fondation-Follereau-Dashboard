@@ -50,7 +50,7 @@ Please follow this public URL link to access and interact with the dashboard:
 https://fondation-follereau-dashboard-hdvc.streamlit.app/
 
 
-Note: If the app has been inactive for many days, streamlit may have frozen it. In this situation, the user may need to "reactive it" by clicking on the button from the screen and wait for a few seconds until the app is active again.
+**Note**: If the app has been inactive for many days, streamlit may have frozen it. In this situation, the user may need to "reactive it" by clicking on the button from the screen and then wait for a few seconds until the app is active again.
 
 
 ![image](https://github.com/user-attachments/assets/f5ca007c-077c-4db5-8ea7-071b18917200)
